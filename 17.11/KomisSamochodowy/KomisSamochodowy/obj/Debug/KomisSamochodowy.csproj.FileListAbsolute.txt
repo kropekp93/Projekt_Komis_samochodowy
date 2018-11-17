@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
