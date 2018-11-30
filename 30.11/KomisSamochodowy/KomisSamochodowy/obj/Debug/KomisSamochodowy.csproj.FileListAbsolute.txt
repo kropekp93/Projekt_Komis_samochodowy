@@ -1,0 +1,20 @@
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+c:\users\student\documents\visual studio 2015\Projects\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csprojResolveAssemblyReference.cache
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csproj.CoreCompileInputs.cache
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\17.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csprojResolveAssemblyReference.cache
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.csproj.CoreCompileInputs.cache
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Users\hkrop\Desktop\Projekt_Komis_samochodowy-master\27.11\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
